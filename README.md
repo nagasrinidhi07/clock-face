@@ -1,1 +1,1 @@
-# analog-clock
+This project creates an analog clock with a digital time display at the bottom. The clock face is designed with an attractive floating bubble effect in the background. The clock includes hour, minute, and second hands, with smooth animations, and also features a rotating digital clock that updates in real-time.
